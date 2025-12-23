@@ -7,7 +7,7 @@ Your legal documents should be tailored to your specific operations. Consult wit
 Welcome to Clad. By using our app, you agree to these terms.
 
 ## Eligibility & Accounts
-You must be at least 16 years old to use Clad.
+You must be at least 12 years old to use Clad.
 
 Provide accurate information, especially body measurements for sizing features.
 
